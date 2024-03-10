@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.piechartContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  padding-top: 25px;
+  margin: 50px;
+  color: #cbd5e1;
+  background-color: #1c1c2b;
+  border-radius: 10px;
+}

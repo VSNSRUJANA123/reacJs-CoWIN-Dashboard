@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.last7days {
+  background-color: #1c1c2b;
+  border-radius: 10px;
+  padding: 15px;
+  padding-top: 25px;
+  margin: 50px;
+
+  color: #cbd5e1;
+}
+.last7days h1 {
+  padding: 30px;
+}
+.bar {
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px;
+}

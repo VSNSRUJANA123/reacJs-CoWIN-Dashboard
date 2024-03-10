@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.cowinContainer {
+  background-color: #161625;
+  padding: 10px;
+  color: #ffffff;
+}
+.loadingContainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+.logoContainer img {
+  width: 30px;
+  height: 30px;
+}
+
+.logoContainer h1 {
+  margin-left: 10px;
+  color: #2cc6c6;
+  font-size: 25px;
+}
+.failureView {
+  text-align: center;
+}
+.failureView img {
+  width: 60%;
+}
